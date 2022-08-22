@@ -8,7 +8,7 @@
   </defs>
 </svg>
 
-
+To work out transform scale values = 1/ height and 1/width
 
 // css
 filter: url(#newsPostList);
